@@ -1,6 +1,6 @@
 *.zip
 *.mp4
-data/*
+d2l_pytorch/data/*
 # Bỏ qua file .env chứa API keys
 .env
 
